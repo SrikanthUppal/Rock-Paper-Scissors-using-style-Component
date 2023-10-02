@@ -1,0 +1,15 @@
+.trigger-button {
+  font-family: 'Bree Serif';
+  color: #223a5f;
+  font-size: 16px;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px 4px 8px;
+}
+.close-popup {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: flex-end;
+}
